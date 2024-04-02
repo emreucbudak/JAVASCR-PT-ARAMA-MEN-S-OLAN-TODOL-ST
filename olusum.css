@@ -1,0 +1,53 @@
+#todo {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+div#list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+div#list .card {
+    margin-top: 2vh;
+}
+.card-body i{
+    float: right;
+}
+.card:last-child {
+    margin-bottom: 2vh;
+}
+#form {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#button-addon2 {
+    display: flex;
+    flex-direction: row;
+}
+#buttonadd {
+    position: absolute;
+    right: 0;
+    top: +2vh;
+}
+#form1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#form1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 3vh;
+}
